@@ -1,4 +1,8 @@
-main; com.lnd.essential_teleports.Main
-name; EssentialTeleports
-author; {desmondcchi, LucasDil}
-version; 0.0.1
+main: com.lnd.essential_teleports.Main
+name: EssentialTeleports
+authors: [desmondcchi, LucasDil]
+version: 0.0.1
+commands:
+    spawn:
+        usage: /spawn
+        description: sends hello message
